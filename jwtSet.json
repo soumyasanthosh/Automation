@@ -1,0 +1,11 @@
+{ 
+"keys": [ 
+{ 
+"alg": "RS256", 
+"e": "AQAB", 
+ "kid": "Testkeyid-techservices-epicautomation",
+"kty": "RSA", 
+ "n": "mae4eIbqDT_qwcHtFUjYgH7KTelAZSYDd0Mo-_RMiWfqPN0jfFmNrRR6AGU75E4UmA02We-sqz5f82VXb3kkaFIN_wn9Oi0oUQWK3JsGjT78yfUcxrZFl-cVxF0qRLDnj13ELfkplgnu65z5o5In0JGBsNwsetmE_98uTzg5aeIcMk75mgO1xO2B2DPWA81z-fTRjuaSWRSftbkg1TsaxHiz5y14Ev7hKzkIuYq1gpDo7zlOvVeKOdp9KsHmATYlM7-N7JHBgowxkgyjcpNXuSVSEb6PVViOr4jjockFOYK7FkmOpThvD0otqxFGXdOfSnbXZRNpPXa0kOJhzuSRbQ",
+} 
+] 
+}
