@@ -1,0 +1,12 @@
+{
+    "keys": [
+        {
+            "kty": "RSA",
+            "kid": "test-pk-techservices-ea",
+            "use": "sig",
+            "alg": "RS384",
+            "n": "ysJ2RMh0wMyWtEunENA0SLpoXjmtyJ3UrvpogMUCva6IZiV-KytqwCJdBGrBZTXhoo9vKgpHf3MbutmnZvKI_hdVCuOzRa9vXgpowIcmrcsss2Bbjyhkww5CKnLfLyVn1jfQ6d9XDiaWofLk0OQFwrgJm-QA_C1wYiWhXuyC2o3JHz_GWtemYNlsAEenpYhp3vBSkUXgRdR35nWecmQPAXJq1irUcsvrcH-phxei5l9n7nQMFBCJUWFjaZ_CpwrkrrVOw5hV2J-T9goTGPJStMmBqBX-SPS0Ei_IAxe17tn9L3xbWAh5oz4puDabODbVlDjKaVMFjqN2VSUCtRDVsw",
+            "e": "AQAB"
+        }
+    ]
+}
