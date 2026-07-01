@@ -1,0 +1,12 @@
+{
+    "keys": [
+        {
+            "kty": "RSA",
+            "kid": "pk-ts-epicautomation-06302026",
+            "use": "sig",
+            "alg": "RS384",
+            "n": "oVTf2-jXCGrfdp4ueXgccwLsuZNjyJyy4Skzhj1uEnqFGF_fF9AWkphMvhysNkrpH8J4LggSaGgeGfKWNSlj0kZ6-B4H29kE3c_bQ5fe0kTNav5-GsL3c0Mk_y03HqIOkd47YZhEn9zTPVqEKUEsNBC6u3y-rdtJfNdzAuuF2fhhsF8rBZ-ZBUEQMhMKnRuwUScbt4wm6pP5B55NmTtAgwrOdIXRSeSA5P6fX0QK4vLMzOrQBCxwj_ydpHJ-LtTbTCVsZaz991t4FCbuLUX9JJ1-uYKXIAlrcegTtvjmMz-3NNJQJn6BKDec-AZ0McnrybBxfTxl6x2O3Sgmwr9ETQ",
+            "e": "AQAB"
+        }
+    ]
+}
